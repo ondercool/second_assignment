@@ -1,2 +1,5 @@
-# second_assignment
-ITU Rake 2. sunum
+Rapora Giriş ve Genel İçerik
+Bu raporda robotikte sıklıkla kullanılan “path-finding” yani yol bulma algoritmalarını inceleyecek, bu algoritmaları birbirleri ile karşılaştıracak, hangisinin ne zaman  kullanılmasının daha verimli olacağı konusunda yorumlar yapmaya çalışacağız. İnceleyeceğimiz algoritmalar: “Best First Search” algoritması, Djikstra en kısa yol algoritması, A* algoritması, RRT, RRT* yol planlama algoritmaları, PRM yol planlama algoritması ve son olarak yol planlama algoritmalarının optimizasyonu için kullanılabilecek genetik arama algoritması olacak.
+
+Ayrıca robot türlerinin -kara, hava, su altı, su üstü- birbiri ile koordineli bir şekilde çalışmak için oluşturdukları sürü yapıları, bir sürü üyesinin yokluğunda diğerlerinin nasıl organize olduklarını, bu tür bir yapılanmanın afet sonrası arama kurtarma işlemlerinde önemini anlatacağım. Son olarak raporumu insansız kara, hava, su altı araçları ve insanlar arasındaki etkileşime dayanan örnek bir arama kurtarma sistemi ile sonlandıracağım.
+
